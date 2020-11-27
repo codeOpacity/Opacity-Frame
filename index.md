@@ -12,11 +12,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 
 # Opacity Frame Cdn (copy from here)
-`<addr>` https://codeopacity.github.io/min.css/opacity.min.css
+`````` https://codeopacity.github.io/min.css/opacity.min.css ```
 ## Header 2
 ### Header 3
 
-[Link](url) and ![Image](https://yt3.ggpht.com/ytc/AAUvwngl4uZpHwnzw8T_aS5X63UddNiJ9YMHV945GV4_=s88-c-k-c0x00ffffff-no-rj)
+[Link](https://yt3.ggpht.com/ytc/AAUvwngl4uZpHwnzw8T_aS5X63UddNiJ9YMHV945GV4_=s88-c-k-c0x00ffffff-no-rj) and ![Image](https://yt3.ggpht.com/ytc/AAUvwngl4uZpHwnzw8T_aS5X63UddNiJ9YMHV945GV4_=s88-c-k-c0x00ffffff-no-rj)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
