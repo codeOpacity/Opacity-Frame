@@ -9,9 +9,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-https://codeopacity.github.io/min.css/opacity.min.css
+
 
 # Header 1
+https://codeopacity.github.io/min.css/opacity.min.css
 ## Header 2
 ### Header 3
 
